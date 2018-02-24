@@ -1,0 +1,2 @@
+Our initial project structure
+
