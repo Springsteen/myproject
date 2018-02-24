@@ -1,3 +1,7 @@
+function logger(message) {
+  console.log(message);
+}
+
 function testFunction (pattern) {
   let myarr = [];
   myArr.push(1);
